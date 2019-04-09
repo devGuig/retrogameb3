@@ -34,10 +34,10 @@
             </div>
             <div id="navbarMenuHeroB" class="navbar-menu">
             <div class="navbar-end">
-                <a class="navbar-item is-active">
+                <a class="navbar-item is-active" href="index.php">
                 HOME
                 </a>
-                <a class="navbar-item">
+                <a class="navbar-item" href="about.php">
                 ABOUT
                 </a>
                 <span class="navbar-item">
@@ -674,7 +674,7 @@
             <h2 class="subtitle">
                 Apprenez en plus sur les étudiants qui ont travaillé pour ces jeux
             </h2>
-            <a class="button is-success">Découvrir</a>
+            <a class="button is-success" href="about.php">Découvrir</a>
             </div>
         </div>
     </section>          
