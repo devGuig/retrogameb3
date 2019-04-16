@@ -40,6 +40,9 @@
                 <a class="navbar-item" href="about.php">
                 ABOUT
                 </a>
+                <a class="navbar-item" href="team.php">
+                NOTRE TEAM
+                </a>
                 <span class="navbar-item">
                 </span>
             </div>
@@ -209,7 +212,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal1">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=PAIN">Voter pour ce jeu</a>
                 </div>
@@ -262,7 +265,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal2">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=ODYSÉE DES PLANÈTES">Voter pour ce jeu</a>
                 </div>
@@ -315,7 +318,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal3">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=TOP / DOWN">Voter pour ce jeu</a>
                 </div>
@@ -370,7 +373,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal4">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=TEMPEST GAME">Voter pour ce jeu</a>
                 </div>
@@ -423,7 +426,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal5">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=ZOMBIE RUSH">Voter pour ce jeu</a>
                 </div>
@@ -476,7 +479,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal6">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=LES FLEURS DU MAL">Voter pour ce jeu</a>
                 </div>
@@ -529,7 +532,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal7">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=SPELLSIGN">Voter pour ce jeu</a>
                 </div>
@@ -584,7 +587,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal8">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=SCHOOL FIGHTER">Voter pour ce jeu</a>
                 </div>
@@ -637,7 +640,7 @@
                         <button class="modal-close"></button>
                     </div>
                     <p>
-                        <button class="button is-primary" id="showModal">En savoir plus</button>
+                        <button class="button is-primary" id="showModal9">En savoir plus</button>
                     </p>
                     <a class="button is-primary" id="voteButton" href="increase_vote.php/?slug_game=MACRONIE THE GAME">Voter pour ce jeu</a>
                 </div>

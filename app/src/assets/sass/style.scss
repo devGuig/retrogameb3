@@ -174,7 +174,7 @@ form input{
     height: 50px;
     border-radius: 10px;
     box-shadow: none;
-    border: 1px solid gray;
+    border: 1px solid #F1F1F1;
     font-size: 15px;
     padding-left: 20px;
 }
@@ -184,7 +184,7 @@ form textarea{
     height: 200px;
     border-radius: 10px;
     box-shadow: none;
-    border: 1px solid gray;
+    border: 1px solid #F1F1F1;
     font-size: 15px;
     padding-left: 20px;
     padding-top: 10px;
@@ -194,4 +194,113 @@ form textarea{
     color: white;
     border: none;
     font-weight: 700;
+}
+
+
+/* PAGE ABOUT */
+#about{
+    .columns{
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    h1{
+        color: white;
+    }
+    
+    h2{
+        color: white;
+    }
+    
+    .separation{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    
+    }
+    
+    .card{
+        display: inline-block;
+        width: 290px;
+        margin-right: 10px;
+        margin-bottom: 50px;
+    }
+    
+    .card-content{
+        height: 251px;
+        padding-top: 40px;
+    }
+    
+    .title.is-4{
+        font-size: 16px;
+    }
+    
+    .content{
+        font-size: 12px;
+    }
+}
+
+/* PAGE TEAM */
+.presentationTeam{
+    padding: 0rem 1.5rem;
+    .salut{
+        text-align: center;
+        padding-top: 50px;
+        color: white;
+    }
+    .title{
+        color: rgb(255, 255, 255);
+    }
+    
+    .subtitle{
+        color: rgb(255, 255, 255);
+    }
+    
+    .fa-cog{
+        font-size: 120px;
+        color: rgb(0, 0, 0);
+        margin-top: -90px;
+    }
+    .bleu{
+        height: 200px;
+        background-color: rgb(56, 125, 189);
+    }
+    
+    .columns p{
+        font-size: 10px;
+        color: white;
+        text-align: center;
+    }
+    
+    .column{
+        text-align: center;
+    }
+    
+    .aurevoir{
+        text-align: center;
+        margin-top: -20px;
+    }
+    
+    .title.is-4{
+        color: black;
+    }
+    
+    .subtitle.is-6{
+        color: black;
+    }
+    
+    .equipe{
+        color: black;
+        margin-top: 100px;
+    }
+    
+    .container p{
+        font-size: 20px;
+        margin-top: 70px;
+    }
+    .card{
+        margin-top: 50px;
+    }    
+    .image.is-4by3 img {
+        height: 105%;
+    }
 }

@@ -176,7 +176,7 @@ form input {
   width: 350px;
   height: 50px;
   padding-left: 20px;
-  border: 1px solid gray;
+  border: 1px solid #f1f1f1;
   border-radius: 10px;
   box-shadow: none;
 }
@@ -187,7 +187,7 @@ form textarea {
   height: 200px;
   padding-top: 10px;
   padding-left: 20px;
-  border: 1px solid gray;
+  border: 1px solid #f1f1f1;
   border-radius: 10px;
   box-shadow: none;
 }
@@ -197,4 +197,115 @@ form textarea {
   color: white;
   border: none;
   background-color: #fed136;
+}
+
+/* PAGE ABOUT */
+#about .columns {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+#about h1 {
+  color: white;
+}
+
+#about h2 {
+  color: white;
+}
+
+#about .separation {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+#about .card {
+  display: inline-block;
+  width: 290px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+
+#about .card-content {
+  height: 251px;
+  padding-top: 40px;
+}
+
+#about .title.is-4 {
+  font-size: 16px;
+}
+
+#about .content {
+  font-size: 12px;
+}
+
+/* PAGE TEAM */
+.presentationTeam {
+  padding: 0rem 1.5rem;
+}
+
+.presentationTeam .salut {
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+}
+
+.presentationTeam .title {
+  color: white;
+}
+
+.presentationTeam .subtitle {
+  color: white;
+}
+
+.presentationTeam .fa-cog {
+  font-size: 120px;
+  margin-top: -90px;
+  color: black;
+}
+
+.presentationTeam .bleu {
+  height: 200px;
+  background-color: #387dbd;
+}
+
+.presentationTeam .columns p {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+}
+
+.presentationTeam .column {
+  text-align: center;
+}
+
+.presentationTeam .aurevoir {
+  margin-top: -20px;
+  text-align: center;
+}
+
+.presentationTeam .title.is-4 {
+  color: black;
+}
+
+.presentationTeam .subtitle.is-6 {
+  color: black;
+}
+
+.presentationTeam .equipe {
+  margin-top: 100px;
+  color: black;
+}
+
+.presentationTeam .container p {
+  font-size: 20px;
+  margin-top: 70px;
+}
+
+.presentationTeam .card {
+  margin-top: 50px;
+}
+
+.presentationTeam .image.is-4by3 img {
+  height: 105%;
 }
